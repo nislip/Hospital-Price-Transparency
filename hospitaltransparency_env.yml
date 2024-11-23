@@ -1,0 +1,6 @@
+name: hospitaltransparency_env
+channels:
+  - default
+dependencies:
+  - pandas
+  - ipykernel
